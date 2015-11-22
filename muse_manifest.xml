@@ -1,0 +1,145 @@
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="cmsight.com" resolutions="1x" timestamp="1448166802574">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_home.css" crc="3889327111" ref="publishing:illustrations:red-bull:index:drawings:bakery"/>
+    <file name="publishing.css" crc="327582238" ref="publishing"/>
+    <file name="iefonts_publishing.css" crc="3794606672" ref="publishing"/>
+    <file name="illustrations.css" crc="528459288" ref="illustrations"/>
+    <file name="iefonts_illustrations.css" crc="235462497" ref="illustrations"/>
+    <file name="red-bull.css" crc="3796665892" ref="red-bull"/>
+    <file name="iefonts_red-bull.css" crc="3804232112" ref="red-bull"/>
+    <file name="index.css" crc="4260635916" ref="index"/>
+    <file name="iefonts_index.css" crc="4275466787" ref="index"/>
+    <file name="drawings.css" crc="37449462" ref="drawings"/>
+    <file name="iefonts_drawings.css" crc="4264473297" ref="drawings"/>
+    <file name="bakery.css" crc="385866474" ref="bakery"/>
+    <file name="iefonts_bakery.css" crc="154315876" ref="bakery"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="museutils.js" crc="275725342" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="pie.js" crc="3827607177" ref="drawings:index"/>
+    <file name="webpro.js" crc="3883484123" ref="drawings:index"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="drawings"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="drawings"/>
+    <file name="touchswipe.js" crc="4218319045" ref="drawings"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="form_check.php" crc="3932029206" ref="index"/>
+    <file name="form_throttle.php" crc="314685628" ref="index"/>
+    <file name="form_process.php" crc="401030677" ref="index"/>
+    <file name="form-u3715.php" crc="4284012869" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_black_66@2x.png" crc="391811751" seo="true" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="cmsight_black.png" crc="189406641" seo="true" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="home_black.png" crc="424358056" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="portfolio_black.png" crc="148251805" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="about_black.png" crc="3783381525" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="pasture-crop-u2775.jpg" crc="504611825" ref="drawings"/>
+    <file name="cheta.jpg" crc="3783494826" seo="true" ref="drawings"/>
+    <file name="blank.gif" crc="4208392903" ref="drawings:index"/>
+    <file name="farm.jpg" crc="362406237" seo="true" ref="drawings"/>
+    <file name="pasture.jpg" crc="535536786" seo="true" ref="drawings"/>
+    <file name="beach.jpg" crc="3856075311" seo="true" ref="drawings"/>
+    <file name="witch.jpg" crc="4287975854" seo="true" ref="drawings"/>
+    <file name="mountain.jpg" crc="423437678" seo="true" ref="drawings"/>
+    <file name="bird.jpg" crc="3951914856" seo="true" ref="drawings"/>
+    <file name="forest.jpg" crc="4227379438" seo="true" ref="drawings"/>
+    <file name="girl.jpg" crc="4127887515" seo="true" ref="drawings"/>
+    <file name="sea.jpg" crc="111221464" seo="true" ref="drawings"/>
+    <file name="sunrise.jpg" crc="4227669244" seo="true" ref="drawings"/>
+    <file name="cheta62x45.jpg" crc="3993756136" seo="true" ref="drawings"/>
+    <file name="farm-crop-u2696.jpg" crc="503202763" ref="drawings"/>
+    <file name="pasture61x45.jpg" crc="245919590" seo="true" ref="drawings"/>
+    <file name="beach60x45.jpg" crc="350019169" seo="true" ref="drawings"/>
+    <file name="witch60x53.jpg" crc="4146576314" seo="true" ref="drawings"/>
+    <file name="mountain-crop-u2723.jpg" crc="3781770946" ref="drawings"/>
+    <file name="bird-crop-u2678.jpg" crc="373716504" ref="drawings"/>
+    <file name="forest-crop-u2705.jpg" crc="6269216" ref="drawings"/>
+    <file name="girl-crop-u2714.jpg" crc="4047369634" ref="drawings"/>
+    <file name="sea-crop-u2750.jpg" crc="431753397" ref="drawings"/>
+    <file name="sunrise-crop-u2759.jpg" crc="524790637" ref="drawings"/>
+    <file name="icon_arrow_left-u2607-3-fr.png" crc="3919771468" ref="drawings"/>
+    <file name="icon_arrow_right-u2608-3-fr.png" crc="64559414" ref="drawings"/>
+    <file name="loading.gif" crc="3815509949" ref="drawings"/>
+    <file name="gettoknowus.png" crc="4010404147" seo="true" ref="drawings:illustrations:publishing:bakery:red-bull:index"/>
+    <file name="car-crop-u2259.png" crc="197214910" ref="illustrations"/>
+    <file name="watch-poster.jpg" crc="3852664837" seo="true" ref="illustrations"/>
+    <file name="floatingcity.jpg" crc="4173711428" seo="true" ref="illustrations"/>
+    <file name="spary-cleaner.png" crc="25277759" seo="true" ref="illustrations"/>
+    <file name="star-wars-poster.jpg" crc="4269046881" seo="true" ref="illustrations"/>
+    <file name="ship_front.png" crc="3980450172" seo="true" ref="illustrations"/>
+    <file name="u2 poster.jpg" crc="4286380109" seo="true" ref="illustrations"/>
+    <file name="dgcover_bg.png" crc="3977512566" ref="publishing"/>
+    <file name="coco.png" crc="3920805941" seo="true" ref="publishing"/>
+    <file name="karl.png" crc="407444182" seo="true" ref="publishing"/>
+    <file name="dg_logo_white.png" crc="3890047810" seo="true" ref="publishing"/>
+    <file name="dgcover_mockup-u2908.png" crc="3935942249" ref="publishing"/>
+    <file name="finance-magazine-mockup.png" crc="4218786655" seo="true" ref="publishing"/>
+    <file name="surfmag_mockup.png" crc="55053728" seo="true" ref="publishing"/>
+    <file name="musicmag_mockup.png" crc="4075186270" seo="true" ref="publishing"/>
+    <file name="p1_1.jpg" crc="465771217" seo="true" ref="publishing"/>
+    <file name="p2_1.jpg" crc="294144589" seo="true" ref="publishing"/>
+    <file name="p3_2.jpg" crc="308628490" seo="true" ref="publishing"/>
+    <file name="p4_2.jpg" crc="4056217576" seo="true" ref="publishing"/>
+    <file name="p5.jpg" crc="13907802" seo="true" ref="publishing"/>
+    <file name="p6.jpg" crc="188645069" seo="true" ref="publishing"/>
+    <file name="logo-layer.png" crc="4204057171" seo="true" ref="bakery"/>
+    <file name="group4-crop-u3220.jpg" crc="76594658" ref="bakery"/>
+    <file name="namecard_mockup_2.jpg" crc="257064346" seo="true" ref="bakery"/>
+    <file name="box-crop-u3232.jpg" crc="338441240" ref="bakery"/>
+    <file name="cup.jpg" crc="27065012" seo="true" ref="bakery"/>
+    <file name="poster-crop-u3336.jpg" crc="4244729763" ref="red-bull"/>
+    <file name="fake-ticket.jpg" crc="532783334" seo="true" ref="red-bull"/>
+    <file name="flyer.jpg" crc="347500060" seo="true" ref="red-bull"/>
+    <file name="poster_mockup.jpg" crc="3920356136" seo="true" ref="red-bull"/>
+    <file name="bus-side.jpg" crc="4158127645" seo="true" ref="red-bull"/>
+    <file name="bg.jpg" crc="3766055911" ref="index"/>
+    <file name="u3818-4.png" crc="4047925588" ref="index"/>
+    <file name="img_2998.jpg" crc="29253767" ref="index"/>
+    <file name="u3471.png" crc="261313164" ref="index"/>
+    <file name="portfolio_about-u3471-r.png" crc="218306840" ref="index"/>
+    <file name="u3470.png" crc="261313164" ref="index"/>
+    <file name="u3470-r.png" crc="44825537" ref="index"/>
+    <file name="car_small.png" crc="4141610934" ref="index"/>
+    <file name="u3468.png" crc="4029021822" ref="index"/>
+    <file name="about_white-u3468-r.png" crc="174326734" ref="index"/>
+    <file name="pasture_small.jpg" crc="296224453" ref="index"/>
+    <file name="u3466.png" crc="4029021822" ref="index"/>
+    <file name="about_white-u3466-r.png" crc="4072638552" ref="index"/>
+    <file name="poster_small.jpg" crc="4093627539" ref="index"/>
+    <file name="u3457.png" crc="4029021822" ref="index"/>
+    <file name="about_white-u3457-r.png" crc="4236576762" ref="index"/>
+    <file name="u3456.png" crc="4029021822" ref="index"/>
+    <file name="u3456-r.png" crc="348087746" ref="index"/>
+    <file name="namecard.jpg" crc="274059498" ref="index"/>
+    <file name="u3459.png" crc="4029021822" ref="index"/>
+    <file name="about_white-u3459-r.png" crc="210781271" ref="index"/>
+    <file name="u3460.png" crc="4029021822" ref="index"/>
+    <file name="u3460-r.png" crc="3847951509" ref="index"/>
+    <file name="5coins.jpg" crc="3783257295" ref="index"/>
+    <file name="u3462.png" crc="261313164" ref="index"/>
+    <file name="portfolio_about-u3462-r.png" crc="218306840" ref="index"/>
+    <file name="u3463.png" crc="261313164" ref="index"/>
+    <file name="u3463-r.png" crc="3953988206" ref="index"/>
+    <file name="dgcover.jpg" crc="41096868" ref="index"/>
+    <file name="u3473.png" crc="4029021822" ref="index"/>
+    <file name="about_white-u3473-r.png" crc="144463724" ref="index"/>
+    <file name="icon_ios.png" crc="196333173" seo="true" ref="index"/>
+    <file name="icon_web.png" crc="493705805" seo="true" ref="index"/>
+    <file name="icon_ui.png" crc="330241974" seo="true" ref="index"/>
+    <file name="icon_logo.png" crc="3811522049" seo="true" ref="index"/>
+    <file name="u3723-17.png" crc="200144543" ref="index"/>
+    <file name="u3723-17-r.png" crc="394757986" ref="index"/>
+    <file name="u3723-17-m.png" crc="4015745631" ref="index"/>
+    <file name="u3723-17-fs.png" crc="174396369" ref="index"/>
+  </folder>
+  <file name="drawings.html" crc="188493009" seo="true" mt="1448166002926" redirect="true"/>
+  <file name="illustrations.html" crc="299558117" seo="true" mt="1448166058117" redirect="true"/>
+  <file name="publishing.html" crc="4270312757" seo="true" mt="1448165843702" redirect="true"/>
+  <file name="bakery.html" crc="108281676" seo="true" mt="1448165966051" redirect="true"/>
+  <file name="red-bull.html" crc="3847329828" seo="true" mt="1448165916080" redirect="true"/>
+  <file name="index.html" crc="397012468" seo="true" mt="1448166581769" redirect="true"/>
+</manifest>
